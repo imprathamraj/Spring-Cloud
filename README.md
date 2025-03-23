@@ -1,4 +1,3 @@
-#Spring Cloud
 Spring Cloud - Microservices Implementation
 This repository explores Spring Cloud for building scalable microservices. It demonstrates service registration, database interaction, and inter-service communication using Spring Boot. The project integrates Eureka Server for service discovery and Spring JDBC for database operations with PostgreSQL.
 
